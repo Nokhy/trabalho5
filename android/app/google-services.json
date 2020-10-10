@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "107171148622",
+    "firebase_url": "https://trabalho5-cef8c.firebaseio.com",
+    "project_id": "trabalho5-cef8c",
+    "storage_bucket": "trabalho5-cef8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107171148622:android:f65d64e464e78e9223e41f",
+        "android_client_info": {
+          "package_name": "br.com.optativa2.trabalho5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107171148622-mh545b3miaahfobloa03b18bs164cva2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB2TDUEVQIgll-TWgvYQYpL8pd6gdC9rM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107171148622-mh545b3miaahfobloa03b18bs164cva2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
